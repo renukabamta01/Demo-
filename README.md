@@ -1,4 +1,4 @@
-# First-Demo
+# Demo
 This is my first Git Repositry.
 <br>
 Author - Renuka Bamta
